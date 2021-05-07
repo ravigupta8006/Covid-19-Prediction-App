@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "377104487547",
+    "firebase_url": "https://covid-19-19352.firebaseio.com",
+    "project_id": "covid-19-19352",
+    "storage_bucket": "covid-19-19352.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377104487547:android:827d5a824ea0b20048fede",
+        "android_client_info": {
+          "package_name": "com.example.covid_19predictionapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377104487547-an35ujscl5og6lt389pgm0mtiiaq531o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYHZNfVVLcLjjgJZ1T5f4PxygNlDueRoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377104487547-an35ujscl5og6lt389pgm0mtiiaq531o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
